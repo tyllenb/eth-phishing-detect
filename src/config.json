@@ -12,6 +12,7 @@
     "satoshilabs.com"
   ],
   "whitelist": [
+    "test1234567890.foobar.example.com",
     "etherscam.wtf",
     "metamick.online",
     "osense.ai",
